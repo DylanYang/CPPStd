@@ -7,9 +7,18 @@
 //
 
 #include <iostream>
+#include "People.h"
+//class People{
+//
+//public:
+//    void sayHello(){
+//        printf("Hello CPP\n");
+//    }
+//};
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    People *p = new People();
+    p->sayHello();
+    delete p;
     return 0;
 }
