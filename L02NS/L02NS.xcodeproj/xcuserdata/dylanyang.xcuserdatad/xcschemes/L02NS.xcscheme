@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A240294F1AE751C500BC5C6A"
+               BlueprintIdentifier = "A23DFC081AE7578800C36B76"
                BuildableName = "L02NS"
                BlueprintName = "L02NS"
                ReferencedContainer = "container:L02NS.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A240294F1AE751C500BC5C6A"
+            BlueprintIdentifier = "A23DFC081AE7578800C36B76"
             BuildableName = "L02NS"
             BlueprintName = "L02NS"
             ReferencedContainer = "container:L02NS.xcodeproj">
@@ -52,7 +52,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A240294F1AE751C500BC5C6A"
+            BlueprintIdentifier = "A23DFC081AE7578800C36B76"
             BuildableName = "L02NS"
             BlueprintName = "L02NS"
             ReferencedContainer = "container:L02NS.xcodeproj">
@@ -71,7 +71,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A240294F1AE751C500BC5C6A"
+            BlueprintIdentifier = "A23DFC081AE7578800C36B76"
             BuildableName = "L02NS"
             BlueprintName = "L02NS"
             ReferencedContainer = "container:L02NS.xcodeproj">
