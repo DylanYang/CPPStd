@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		A23DFCAA1AE922DE00C36B76 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A23DFCA91AE922DE00C36B76 /* main.cpp */; };
-		A23DFCB41AE9238100C36B76 /* Man.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A23DFCB01AE9238100C36B76 /* Man.cpp */; };
-		A23DFCB51AE9238100C36B76 /* People.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A23DFCB21AE9238100C36B76 /* People.cpp */; };
+		A23DFCCC1AE92E8D00C36B76 /* Man 21-40-30-926.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A23DFCC91AE92E8D00C36B76 /* Man 21-40-30-926.cpp */; };
+		A23DFCCD1AE92E8D00C36B76 /* People 21-40-30-804.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A23DFCCA1AE92E8D00C36B76 /* People 21-40-30-804.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,10 +27,10 @@
 /* Begin PBXFileReference section */
 		A23DFCA61AE922DE00C36B76 /* L05SuperC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = L05SuperC; sourceTree = BUILT_PRODUCTS_DIR; };
 		A23DFCA91AE922DE00C36B76 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		A23DFCB01AE9238100C36B76 /* Man.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Man.cpp; sourceTree = "<group>"; };
-		A23DFCB11AE9238100C36B76 /* Man.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Man.h; sourceTree = "<group>"; };
-		A23DFCB21AE9238100C36B76 /* People.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = People.cpp; sourceTree = "<group>"; };
-		A23DFCB31AE9238100C36B76 /* People.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = People.h; sourceTree = "<group>"; };
+		A23DFCC81AE92E8D00C36B76 /* Man 21-40-30-902.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Man 21-40-30-902.h"; sourceTree = "<group>"; };
+		A23DFCC91AE92E8D00C36B76 /* Man 21-40-30-926.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Man 21-40-30-926.cpp"; sourceTree = "<group>"; };
+		A23DFCCA1AE92E8D00C36B76 /* People 21-40-30-804.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "People 21-40-30-804.cpp"; sourceTree = "<group>"; };
+		A23DFCCB1AE92E8D00C36B76 /* People 21-40-30-846.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "People 21-40-30-846.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,10 +63,10 @@
 		A23DFCA81AE922DE00C36B76 /* L05SuperC */ = {
 			isa = PBXGroup;
 			children = (
-				A23DFCB01AE9238100C36B76 /* Man.cpp */,
-				A23DFCB11AE9238100C36B76 /* Man.h */,
-				A23DFCB21AE9238100C36B76 /* People.cpp */,
-				A23DFCB31AE9238100C36B76 /* People.h */,
+				A23DFCC81AE92E8D00C36B76 /* Man 21-40-30-902.h */,
+				A23DFCC91AE92E8D00C36B76 /* Man 21-40-30-926.cpp */,
+				A23DFCCA1AE92E8D00C36B76 /* People 21-40-30-804.cpp */,
+				A23DFCCB1AE92E8D00C36B76 /* People 21-40-30-846.h */,
 				A23DFCA91AE922DE00C36B76 /* main.cpp */,
 			);
 			path = L05SuperC;
@@ -128,9 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A23DFCB41AE9238100C36B76 /* Man.cpp in Sources */,
-				A23DFCB51AE9238100C36B76 /* People.cpp in Sources */,
+				A23DFCCD1AE92E8D00C36B76 /* People 21-40-30-804.cpp in Sources */,
 				A23DFCAA1AE922DE00C36B76 /* main.cpp in Sources */,
+				A23DFCCC1AE92E8D00C36B76 /* Man 21-40-30-926.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

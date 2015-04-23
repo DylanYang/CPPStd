@@ -8,6 +8,6 @@
 
 #include "Man.h"
 
-Man::Man(int a):People(age,1){
+Man::Man(int age,int sex):People(age,sex){
     
 }

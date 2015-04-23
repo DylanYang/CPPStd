@@ -2,10 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:L05SuperC/L05SuperC.xcodeproj">
+      location = "group:L06Super/L06Super.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:L06Super/L06Super.xcodeproj">
+      location = "group:L05SuperC/L05SuperC.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:L04CMethod/L04CMethod.xcodeproj">
