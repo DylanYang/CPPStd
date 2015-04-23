@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include "People.h"
+using namespace jikexueyuan;
 //class People{
 //
 //public:

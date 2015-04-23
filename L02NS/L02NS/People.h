@@ -10,10 +10,10 @@
 #define __L01OOP__People__
 
 #include <stdio.h>
-
+namespace jikexueyuan{
+    class People{
+    public:
+        void sayHello();
+    };
+}
 #endif /* defined(__L01OOP__People__) */
-
-class People{
-public:
-    void sayHello();
-};

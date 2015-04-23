@@ -8,6 +8,9 @@
 
 #include "People.h"
 
-void People::sayHello(){
-    printf("Hello");
+namespace jikexueyuan {
+    
+    void People::sayHello(){
+        printf("Hello,hi");
+    }
 }
