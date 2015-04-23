@@ -27,5 +27,5 @@ int People::getSex(){
 }
 
 void People::sayHello(){
-    printf("Hello,hi");
+    printf("People say Hello,hi\n");
 }
