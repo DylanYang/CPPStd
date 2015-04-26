@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:L12FunctionPointer/L12FunctionPointer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L11PseudoFunction/L11PseudoFunction.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L10Operator/L10Operator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L09Overload/L09Overload.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:L07Functions/L07Functions.xcodeproj">
    </FileRef>
    <FileRef
