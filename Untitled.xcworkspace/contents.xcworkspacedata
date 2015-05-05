@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:L16String/L16String.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L15Containers/L15Containers.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:L12FunctionPointer/L12FunctionPointer.xcodeproj">
    </FileRef>
    <FileRef
