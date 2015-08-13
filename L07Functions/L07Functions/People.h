@@ -22,7 +22,7 @@ public:
     People(int age,int sex);
     int getAge();
     int getSex();
-    virtual void sayHello();
+     void sayHello();
     virtual void eat()=0;
     void hi();
 };

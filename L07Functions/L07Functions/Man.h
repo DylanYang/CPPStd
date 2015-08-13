@@ -16,7 +16,7 @@ class Man:public People{
     
 public:
     Man(int a);
-    virtual void sayHello();
+    void sayHello();
     virtual void eat();
 };
 #endif /* defined(__L03Classes__Man__) */

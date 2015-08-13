@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1010C089-56C1-4637-904D-BE4A6F8D3075</string>
+	<key>IDESourceControlProjectName</key>
+	<string>L11PseudoFunction</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AAC30629D5157C7D1BB77397C35A2A02E49BFCCF</key>
+		<string>https://github.com/DylanYang/CPPStd.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>L11PseudoFunction/L11PseudoFunction.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AAC30629D5157C7D1BB77397C35A2A02E49BFCCF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DylanYang/CPPStd.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AAC30629D5157C7D1BB77397C35A2A02E49BFCCF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AAC30629D5157C7D1BB77397C35A2A02E49BFCCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CPPStd</string>
+		</dict>
+	</array>
+</dict>
+</plist>
